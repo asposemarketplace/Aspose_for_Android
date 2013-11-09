@@ -1,6 +1,6 @@
 #Aspose for Android
 
-This repository contains Aspose for Android Demo Apps source code using Aspose Cloud SDK. 
+This repository contains Aspose Android Demo Apps source code using Aspose Cloud Android SDK. 
 These Demo App allows you to convert documents into various formats quickly and easily. 
 
 ###Data
@@ -28,7 +28,7 @@ The app saves the output file(s) at specific location.
 [Note]: If you can't find jar, then build the Aspose Cloud Android SDK Library Project again.
 
 ###How To Run Aspose Cloud Android SDK Demo Apps:
-	1. Just Right Click Aspose Cloud SDK Demo Project and go to Run > Run As Android Application.
+1. Just Right Click Aspose Cloud SDK Demo Project and go to Run > Run As Android Application.
 
 ###Help Material
 
