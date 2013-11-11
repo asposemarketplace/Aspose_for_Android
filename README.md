@@ -15,6 +15,7 @@ The app saves the output file(s) at specific location.
 
 - Aspose Cloud Android SDK, which can be downloaded from [github](https://github.com/asposeforcloud/Aspose_Cloud_SDK_For_Android).
 - JAR file of Aspose Cloud Android SDK
+- Aspose AppKey and AppSID from Aspose Cloud [website](https://cloud.aspose.com) to make application work.
 
 ###How To Configure Aspose Demo Apps Code in Eclipse:
 1. Download [Aspose Cloud Andoid SDK](https://github.com/asposeforcloud/Aspose_Cloud_SDK_For_Android) and open it in your eclipse.
