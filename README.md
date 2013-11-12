@@ -1,7 +1,7 @@
 #Aspose for Android
 
-This repository contains Aspose Android Demo Apps source code using Aspose Cloud Android SDK. 
-These Demo App allows you to convert documents into various formats quickly and easily. 
+This repository contains source code for Aspose Android demo apps using Aspose Cloud Android SDK. 
+These demo apps allows you to convert documents into various formats quickly and easily. 
 
 ###Data
 
