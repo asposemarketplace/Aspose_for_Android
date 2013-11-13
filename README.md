@@ -19,7 +19,7 @@ The app saves the output file(s) at specific location.
 
 ###How To Configure Source Code of Aspose Demo Apps in Eclipse:
 1. Download [Aspose Cloud Andoid SDK](https://github.com/asposeforcloud/Aspose_Cloud_SDK_For_Android) and open it in your eclipse.
-2. Download any of the [Aspose Demo Apps](https://github.com/asposemarketplace/Aspose_for_Android) and open it also in your eclipse.
+2. Download any of the above [Aspose Demo Apps](https://github.com/asposemarketplace/Aspose_for_Android) and open it also in your eclipse.
 3. Right Click on demo app and go to Project Propertes.
 4. Go to Android and in the Library Panel, Click Add.
 5. Select Aspose Cloud Android SDK library project from the window.
