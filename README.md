@@ -1,7 +1,7 @@
 #Aspose for Android
 
-This repository contains Aspose Android Demo Apps source code using Aspose Cloud Android SDK. 
-These Demo App allows you to convert documents into various formats quickly and easily. 
+This repository contains source code for Aspose Android demo apps using Aspose Cloud Android SDK. 
+These demo apps allows you to convert documents into various formats quickly and easily. 
 
 ###Data
 
@@ -15,15 +15,16 @@ The app saves the output file(s) at specific location.
 
 - Aspose Cloud Android SDK, which can be downloaded from [github](https://github.com/asposeforcloud/Aspose_Cloud_SDK_For_Android).
 - JAR file of Aspose Cloud Android SDK
+- Aspose AppKey and AppSID from Aspose Cloud [website](https://cloud.aspose.com) to make application work.
 
-###How To Configure Aspose Demo Apps Code in Eclipse:
-1. Download [Aspose Cloud Andoid SDK](https://github.com/asposeforcloud/Aspose_Cloud_SDK_For_Android) and open it in your eclipse.
-2. Download any of the [Aspose Demo Apps](https://github.com/asposemarketplace/Aspose_for_Android) and open it also in your eclipse.
-3. Right Click on demo app and go to Project Propertes.
-4. Go to Android and in the Library Panel, Click Add.
-5. Select Aspose Cloud Android SDK library project from the window.
-6. Now Click on Java Built Path and Go to Library Tab.
-7. Click Add JARs and add jar file of Aspose Cloud Android SDK which will be in Aspose_Cloud_Android_SDK/bin/aspose_cloud_android_sdk.jar.
+###How To Configure Source Code of Aspose Demo Apps in Eclipse:
+1. Download [Aspose Cloud Android SDK](https://github.com/asposeforcloud/Aspose_Cloud_SDK_For_Android) and open it in your eclipse.
+2. Download any of the above [Aspose Demo Apps](https://github.com/asposemarketplace/Aspose_for_Android) and open it also in your eclipse.
+3. Right click on demo app and go to Project **Properties**.
+4. Go to **Android**, and in the **Library** Panel, click **Add**.
+5. Select **Aspose Cloud Android SDK** library project from the window.
+6. Now click on **Java Built Path** and go to **Libraries** tab.
+7. Click **Add JARs** and add jar file of Aspose Cloud Android SDK which will be in Aspose_Cloud_Android_SDK/bin/aspose_cloud_android_sdk.jar.
 
 [Note]: If you can't find jar, then build the Aspose Cloud Android SDK Library Project again.
 
