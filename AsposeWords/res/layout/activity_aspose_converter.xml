@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".AsposeConverterActivity" 
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/input_label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/browse_location" 
+        android:textStyle="bold"/>
+    
+    <TextView
+        android:id="@+id/input_path"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    
+    <Button 
+        android:id="@+id/btn_browse"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/browse" 
+        android:layout_gravity="right"/>
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/out_format"
+        android:textStyle="bold" />
+    
+    <Spinner
+	    android:id="@+id/format_spinner"
+	    android:layout_width="fill_parent"
+	    android:layout_height="wrap_content" />
+    
+    <Button 
+        android:id="@+id/btn_convert"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/convert" 
+        android:enabled="false"/>
+    
+    <TextView 
+        android:id="@+id/tv_result_lable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:text="@string/outcome" 
+        android:textStyle="bold"/>
+    
+    <TextView 
+        android:id="@+id/tv_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
