@@ -1,17 +1,19 @@
-#Aspose.PDF for Android
+#Aspose.Words for Android
 
 This repository contains source code for Aspose Android demo app using [Aspose Android Components](http://www.aspose.com/community/files/74/android-components/default.aspx). 
 
 ###Feature
-- Currently this demo app provides you the quick functionality to merge/concatenate two PDF documents into single PDF file. 
+- Currently this demo app provides you the quick functionality to convert your Microsoft Word documents to other supported formats. 
 - Output file will be saved on the device at specific location.
+
+![Aspose.Words for Android - Document Converter](http://www.aspose.com/Aspose.Android/Images/Aspose.Words.Android.jpg)
 
 ###Prerequisites
 - In order to manipulate any document(s), you only need these documents to be present in your Android device.
 - Download desired Aspose Android Component(s) from [Aspose Components Repository](http://www.aspose.com/community/files/74/android-components/default.aspx).
 - Extract the downloaded component to your desired location.
 
-###How To Configure Source Code in Eclipse:
+###How To Configure Source Code in Eclipse
 1. Download the code for Aspose Android App from the repository.
 2. Import the downloaded code in Eclipse using **Import -> Android -> Existing Android Code Into Workspace** option.
 3. Right click on imported Project and go to Project **Properties**.
@@ -22,7 +24,7 @@ This repository contains source code for Aspose Android demo app using [Aspose A
 
 **Note:** Project should now be error free.
 
-###How To Run:
+###How To Run
 - Just Right Click Aspose Android App Project and go to Run > Run As Android Application.
 
 ###Help Material
