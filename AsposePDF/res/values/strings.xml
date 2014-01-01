@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Aspose PDF</string>
+    <string name="outcome">Outcome :</string>
+    <string name="concat">Concatenate</string>
+    <string name="browse">Browse</string>
+    <string name="browse_location">Input File</string>
+    <string name="browse_location_1">Input File 1 :</string>
+    <string name="browse_location_2">Input File 2 :</string>
+    <string name="msg_oops">Oops. Something went wrong. Please try again later. </string>
+    
+    <color name="white">#FFF</color>
+    
+</resources>
