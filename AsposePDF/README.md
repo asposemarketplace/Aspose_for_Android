@@ -26,5 +26,5 @@ This repository contains source code for Aspose Android demo app using [Aspose A
 - Just Right Click Aspose Android App Project and go to Run > Run As Android Application.
 
 ###Help Material
-- Please see the Aspose for Android Examples sections in the [Documentation](http://www.aspose.com/docs/dashboard.action).
+- Please see the Aspose for Android Examples sections in the [documentation](http://www.aspose.com/docs/dashboard.action).
 - You may get help regarding any of Aspose products on [www.aspose.com](http://www.aspose.com).
