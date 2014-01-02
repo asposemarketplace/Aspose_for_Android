@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Aspose Email</string>
+    <string name="outcome">Outcome :</string>
+    <string name="convert">Convert</string>
+    <string name="browse">Browse</string>
+    <string name="browse_location">Input File : </string>
+    <string name="input_file_format">Input File Format : </string>
+    <string name="out_format">Output Format : </string>
+    <string name="msg_oops">Oops. Something went wrong. Please try again later. </string>
+    
+    <color name="white">#FFF</color>
+    
+</resources>

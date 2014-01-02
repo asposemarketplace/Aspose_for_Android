@@ -1,0 +1,108 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".AsposeConverterActivity" 
+    android:orientation="vertical">
+	
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        
+        <LinearLayout 
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+		        android:id="@+id/input_label"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="@string/browse_location" 
+		        android:textStyle="bold"/>
+            
+            <TextView
+		        android:id="@+id/input_path"
+		        android:layout_width="200dp"
+		        android:layout_height="wrap_content"/>
+                                    
+        </LinearLayout>
+        
+	    <RelativeLayout 
+	        android:layout_width="fill_parent"
+	    	android:layout_height="wrap_content">
+    	    			    
+		    <Button 
+		        android:id="@+id/btn_browse"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="@string/browse" 
+		        android:layout_alignParentRight="true"/>
+    	</RelativeLayout>
+        
+    </LinearLayout>
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+	        android:id="@+id/input_format"
+	        android:layout_width="wrap_content"
+	        android:layout_height="fill_parent"
+	        android:text="@string/input_file_format" 
+	        android:textStyle="bold"
+	        android:gravity="center_vertical"/>
+    
+	    <Spinner
+		    android:id="@+id/input_format_spinner"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"/>
+        
+    </LinearLayout>
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+	        android:layout_width="wrap_content"
+	        android:layout_height="fill_parent"
+	        android:text="@string/out_format"
+	        android:textStyle="bold" 
+	        android:gravity="center_vertical"/>
+	    
+	    <Spinner
+		    android:id="@+id/output_format_spinner"
+		    android:layout_width="fill_parent"
+		    android:layout_height="wrap_content"/>
+        
+    </LinearLayout>
+    
+    <Button 
+        android:id="@+id/btn_convert"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/convert" 
+        android:enabled="false"/>
+    
+    <TextView 
+        android:id="@+id/tv_result_lable"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp"
+        android:text="@string/outcome" 
+        android:textStyle="bold"/>
+    
+    <TextView 
+        android:id="@+id/tv_result"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
