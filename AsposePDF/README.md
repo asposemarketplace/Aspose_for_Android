@@ -6,7 +6,7 @@ This repository contains source code for Aspose Android demo app using [Aspose A
 - Currently this demo app provides you the quick functionality to merge/concatenate two PDF documents into single PDF file. 
 - Output file will be saved on the device at specific location.
 
-![Aspose.PDF for Android - Concatenator App](http://www.aspose.com/Aspose.Android/Images/Aspose.PDF.Android.png)
+![Aspose.PDF for Android - Concatenator App](http://www.aspose.com/Aspose.Android/Images/Aspose-Pdf-for-Android.png)
 
 ###Prerequisites
 - In order to manipulate any document(s), you only need these documents to be present in your Android device.
