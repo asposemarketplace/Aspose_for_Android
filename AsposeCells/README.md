@@ -1,42 +1,30 @@
-#Aspose for Android
+#Aspose.Cells for Android
 
-This repository contains source code for Aspose Android demo apps using Aspose Cloud Android SDK. 
-These demo apps allows you to convert documents into various formats quickly and easily. 
+This repository contains source code for Aspose Android demo app using [Aspose Android Components](http://www.aspose.com/community/files/74/android-components/default.aspx). 
 
-###Data
+###Feature
+- Currently this demo app provides you the quick functionality to convert your Microsoft Excel documents to other supported formats. 
+- Output file will be saved on the device at specific location.
 
-In order to manipulate any file(s), you only need these to be present in the Android device.
+###Prerequisites
+- In order to manipulate any document(s), you only need these documents to be present in your Android device.
+- Download desired Aspose Android Component(s) from [Aspose Components Repository](http://www.aspose.com/community/files/74/android-components/default.aspx).
+- Extract the downloaded component to your desired location.
 
-###Output
+###How To Configure Source Code in Eclipse
+1. Download the code for Aspose Android App from the repository.
+2. Import the downloaded code in Eclipse using **Import -> Android -> Existing Android Code Into Workspace** option.
+3. Right click on imported Project and go to Project **Properties**.
+4. Now click on **Java Built Path** and go to **Libraries** tab.
+5. Click **Add External JARs** and add jar file from the **lib** folder of extracted directory mentioned in **Prerequisites**.
+6. Now move to **Order and Export** tab and make the recently added jar as checked.
+7. Press **OK** to save all changes
 
-The app saves the output file(s) at specific location.
+**Note:** Project should now be error free.
 
-###Prerequisites to Configure Aspose Android Apps
-
-- Aspose Cloud Android SDK, which can be downloaded from [github](https://github.com/asposeforcloud/Aspose_Cloud_SDK_For_Android).
-- JAR file of Aspose Cloud Android SDK
-- Aspose AppKey and AppSID from Aspose Cloud [website](https://cloud.aspose.com) to make application work.
-
-###How To Configure Source Code of Aspose Demo Apps in Eclipse:
-1. Download [Aspose Cloud Android SDK](https://github.com/asposeforcloud/Aspose_Cloud_SDK_For_Android) and open it in your eclipse.
-2. Download any of the above [Aspose Demo Apps](https://github.com/asposemarketplace/Aspose_for_Android) and open it also in your eclipse.
-3. Right click on demo app and go to Project **Properties**.
-4. Go to **Android**, and in the **Library** Panel, click **Add**.
-5. Select **Aspose Cloud Android SDK** library project from the window.
-6. Now click on **Java Built Path** and go to **Libraries** tab.
-7. Click **Add JARs** and add jar file of Aspose Cloud Android SDK which will be in Aspose_Cloud_Android_SDK/bin/aspose_cloud_android_sdk.jar.
-
-[Note]: If you can't find jar, then build the Aspose Cloud Android SDK Library Project again.
-
-###How To Run Aspose Cloud Android SDK Demo Apps:
-1. Just Right Click Aspose Cloud SDK Demo Project and go to Run > Run As Android Application.
+###How To Run
+- Just Right Click Aspose Android App Project and go to Run > Run As Android Application.
 
 ###Help Material
-
-You may get help regarding Aspose Cloud API or Aspose Cloud SDK for Android on [www.aspose.com](http://www.aspose.com/cloud).
-
-##How to use Aspose Cloud Android SDK ?
-
-Please see the Aspose Cloud SDK for Android Examples sections in the [Documentation](http://www.aspose.com/docs).
-
-
+- Please see the Aspose for Android Examples sections in the [documentation](http://www.aspose.com/docs/dashboard.action).
+- You may get help regarding any of Aspose products on [www.aspose.com](http://www.aspose.com).
