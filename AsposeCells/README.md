@@ -6,6 +6,8 @@ This repository contains source code for Aspose Android demo app using [Aspose A
 - Currently this demo app provides you the quick functionality to convert your Microsoft Excel documents to other supported formats. 
 - Output file will be saved on the device at specific location.
 
+![Aspose.Cells for Android - Document Converter](http://www.aspose.com/Aspose.Android/Images/Aspose-Cells-for-Android.png)
+
 ###Prerequisites
 - In order to manipulate any document(s), you only need these documents to be present in your Android device.
 - Download desired Aspose Android Component(s) from [Aspose Components Repository](http://www.aspose.com/community/files/74/android-components/default.aspx).
