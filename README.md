@@ -7,16 +7,24 @@ This repository contains source code for Aspose Android demo apps using [Aspose 
 - Currently this demo app provides you the quick functionality to convert your Microsoft Word documents to other supported formats. 
 - Output file will be saved on the device at specific location.
 
+For more info, please visit [Aspose Words for Android](https://github.com/asposemarketplace/Aspose_for_Android/tree/master/AsposeWords)
+
 #####Aspose Cells
 - Currently this demo app provides you the quick functionality to convert your Microsoft Excel documents to other supported formats. 
 - Output file will be saved on the device at specific location.
+
+For more info, please visit [Aspose Cells for Android](https://github.com/asposemarketplace/Aspose_for_Android/tree/master/AsposeCells)
 
 #####Aspose PDF
 - Currently this demo app provides you the quick functionality to merge/concatenate two PDF documents into single PDF file. 
 - Output file will be saved on the device at specific location.
 
+For more info, please visit [Aspose PDF for Android](https://github.com/asposemarketplace/Aspose_for_Android/tree/master/AsposePDF)
+
 #####Aspose Email
 - Convert Microsoft Outlook Email messages from one format to another quickly.
+
+For more info, please visit [Aspose Email for Android](https://github.com/asposemarketplace/Aspose_for_Android/tree/master/AsposeEmail)
 
 ###Prerequisites
 - In order to manipulate any document(s), you only need these documents to be present in your Android device.
